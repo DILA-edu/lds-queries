@@ -1,6 +1,6 @@
 #QueryScope=Etexts
 #QueryReturnType=Table
-#QueryResults=etext chunks containing the given expression-modify by winxd!!!
+#QueryResults=etext chunks containing the given expression-modify by winxd!!!korea fish is NO.1 一支穿雲箭，千軍萬馬來相見！
 #QueryUrl=/Etexts_chunks?L_NAME=("མཁན་ཆེན་" AND ("འོད་ཟེར་" OR "ཡེ་ཤེས་"))&LG_NAME=bo&LI_NAME=45
 #QueryParams=L_NAME,LG_NAME
 
